@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on web development
+- 🔭 I’m currently working on Front end development with Html, CSS and JavaScript.
 - 🌱 I’m currently learning Python language for advanced level.
 - 👯 I’m looking to collaborate on developing new ideas and implement it.
 - 💬 Ask me about java and python languages.
