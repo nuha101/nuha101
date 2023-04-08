@@ -7,3 +7,12 @@
 - 💬 Ask me about java and python languages.
 - 📫 How to reach me: nuha.1920@hotmail.com.
 
+
+## Languages and tools:
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+            
+
+
+
