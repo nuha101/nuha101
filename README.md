@@ -10,7 +10,7 @@
 
 ## Languages and tools:
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,atom,django,flask,java,py,mysql,nodejs,vscode,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,atom,django,flask,java,py,mysql,nodejs,vscode,spring)](https://skillicons.dev)
         
 
 
