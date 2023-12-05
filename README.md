@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Back End Development with Python and Flask.
-- 🌱 I’m currently learning Python language for advanced level.
+- 🔭 I’m currently working on Back End Development with Java and Spring.
+- 🌱 I’m currently learning Spring framework for advanced level.
 - 👯 I’m looking to work on developing new ideas and implement it.
 - 💬 Ask me about java and python languages.
 - 📫
