@@ -9,8 +9,10 @@
 
 
 ## Languages and tools:
- 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,java,py,mysql,spring-Boot)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=django,flask,java,py,mysql)](https://skillicons.dev)
+[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring)](https://spring.io/projects/spring-boot)
+
         
 
 
